@@ -1,6 +1,6 @@
 {
-  "name": "native-echarts",
-  "version": "0.5.0",
+  "name": "zjb-charts",
+  "version": "0.0.1",
   "description": "echarts for react-native",
   "main": "src/index.js",
   "directories": {
@@ -11,20 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/somonus/react-native-echarts.git"
+    "url": "git+https://github.com/Yee0403/react-native-echarts.git"
   },
   "keywords": [
-    "react-native",
-    "echarts",
-    "chart",
-    "charts"
+    "react-native"
   ],
   "author": "somonus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/somonus/react-native-echarts/issues"
+    "url": "https://github.com/Yee0403/react-native-echarts/issues"
   },
-  "homepage": "https://github.com/somonus/react-native-echarts#readme",
+  "homepage": "https://github.com/Yee0403/react-native-echarts#readme",
   "dependencies": {
     "echarts": "3.2.3"
   }
