@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import { View, StyleSheet, Platform } from "react-native";
+import { View, Platform } from "react-native";
 import renderChart from "./renderChart";
 import WebView from "react-native-webview";
-import echarts from "./echarts.min";
 
 export default class App extends Component {
   constructor(props) {

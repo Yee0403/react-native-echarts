@@ -1,6 +1,6 @@
 {
   "name": "zjb-charts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "echarts for react-native",
   "main": "src/index.js",
   "directories": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Yee0403/react-native-echarts#readme",
   "dependencies": {
     "echarts": "3.2.3",
-    "react-native-webview":"^7.4.2"
+    "react-native-webview": "^7.4.2"
   }
 }
