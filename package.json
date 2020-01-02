@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Yee0403/react-native-echarts#readme",
   "dependencies": {
-    "echarts": "3.2.3"
+    "echarts": "3.2.3",
+    "react-native-webview":"^7.4.2"
   }
 }
